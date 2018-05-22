@@ -1,4 +1,13 @@
 body {
-    background-color: lightskyblue;
+    background-color: grey;
     color: purple;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+h5 {
+    text-align: center;
 }
